@@ -4,13 +4,13 @@
 
 ### Server Hardware (linux-server)
 
-| Resource | Capacity | Usage |
-|----------|----------|-------|
-| CPU | 4 cores × Intel i5-3470 @ 3.2GHz | ~55% clock |
-| RAM | 31 GB | 6.2 GB used (20%) |
-| Root Disk | 1.8 TB | 484 GB used (28%) |
-| Storage Disk | 916 GB | 89 GB used (11%) |
-| Load | 0.16 | Very low |
+| Resource | Specs |
+|----------|-------|
+| **CPU** | Intel Core i5-3470 @ 3.20GHz (4 cores, 4 threads) |
+| **RAM** | 31 GB (6.2 GB used / 20%) |
+| **Root Disk** | 1.8 TB (484 GB used / 28%) |
+| **Storage Disk** | 916 GB (89 GB used / 11%) |
+| **Load** | ~0.16 (very low) |
 
 ### Docker Containers (linux-server)
 
