@@ -2,6 +2,16 @@
 
 - linux-server → 192.168.1.247, port 6905, user: sd22750
 
+### Server Hardware (linux-server)
+
+| Resource | Capacity | Usage |
+|----------|----------|-------|
+| CPU | 4 cores × Intel i5-3470 @ 3.2GHz | ~55% clock |
+| RAM | 31 GB | 6.2 GB used (20%) |
+| Root Disk | 1.8 TB | 484 GB used (28%) |
+| Storage Disk | 916 GB | 89 GB used (11%) |
+| Load | 0.16 | Very low |
+
 ### Docker Containers (linux-server)
 
 | Container | Purpose | Weblink |
